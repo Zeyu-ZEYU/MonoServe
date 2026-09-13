@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Native build outputs
+*.so
+*.o
+csrc/**/*.ptx
+compile_commands.json
+
+# Third-party sources fetched by scripts/fetch_deps.sh
+third_party/cutlass/
+third_party/ThunderKittens/
+
+# Measurement and experiment outputs
+results/
+motivation/results/
+eval/results/
+*.log

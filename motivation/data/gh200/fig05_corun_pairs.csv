@@ -1,0 +1,13 @@
+pair,bar,computation,corun_slowdown
+Attn+Attn,left,attention,1.0728
+Attn+Attn,right,attention,1.0702
+Sym+Sym,left,symmetric,1.8517
+Sym+Sym,right,symmetric,1.8575
+Asym+Asym,left,asymmetric,1.2310
+Asym+Asym,right,asymmetric,1.2533
+Sym+Asym,left,symmetric,1.0880
+Sym+Asym,right,asymmetric,3.4528
+Attn+Sym,left,attention,3.0156
+Attn+Sym,right,symmetric,1.0083
+Attn+Asym,left,attention,1.0946
+Attn+Asym,right,asymmetric,1.1374

@@ -1,0 +1,15 @@
+weights_in,reader_sms,attention_slowdown
+cpu_dram,8,1.0382
+cpu_dram,16,1.1149
+cpu_dram,24,1.5998
+cpu_dram,32,3.2740
+cpu_dram,48,6.5521
+cpu_dram,64,9.5237
+cpu_dram,68,10.4572
+hbm,8,1.0214
+hbm,16,1.0613
+hbm,24,1.1501
+hbm,32,1.2705
+hbm,48,1.6226
+hbm,64,1.9823
+hbm,68,2.0641
